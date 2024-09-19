@@ -1,0 +1,26 @@
+# Perfil 
+
+O projeto é uma base de um perfil pessoal, ele contém um local para colocar nome, profissão, uma foto sua(foto de perfil), e slots para colocar um texto e uma foto em cima, onde quando a tela diminui ele se modifica para q todas as informações fiquem visíveis de uma forma pratica. Este projeto foi útil para relembrar sobre oq já havia estudado, colocar um pratica oq estou estudado neste bimestre e tbm aprender coisas novas. neste projeto eu tive algumas dificuldades, principalmente na parte de transferis do desktop para o mobile, mas n tive muita dificuldade na ora de fazer o desktop.
+
+---
+
+## Sumário
+
+1. [Introdução](#introdução)
+2. [Funcionalidades](#funcionalidades)
+
+---
+
+## Introdução
+
+- Este projeto faz com que coloque em pratica oq aprendi, por exemplo o “@media”; tbm pode ser usado para relembrar coisas q já avia aprendido a algum tempo atras, mas não lembrava; ou tbm até aprender coisas novas. 
+- A minha motivação para o desenvolvimento deste projeto era para aprender mais e colocar em pratica tudo q aprendi.
+- As tecnologias usadas para este projeto foram: HTML e CSS externo.
+
+---
+
+## Funcionalidades
+
+- **Funcionalidade 1:** Aprendizado.
+- **Funcionalidade 2:** Relembrar conteúdos.
+- **Funcionalidade 3:** praticar o novo estudado.
